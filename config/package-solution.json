@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "Incyte-Vehicle-Reports",
+    "id": "8811f299-14f1-4f16-9599-8e8a38c6de55",
+    "version": "1.1.1.6",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/VehicleReports.sppkg"
+  }
+}
